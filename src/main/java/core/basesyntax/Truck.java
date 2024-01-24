@@ -5,6 +5,7 @@ public class Truck extends Machine {
     public void doWork(){
 
     }
+
     @Override
     public void stopWork(){
 
