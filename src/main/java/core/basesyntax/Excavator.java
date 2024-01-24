@@ -5,6 +5,7 @@ public class Excavator extends Machine {
     public void doWork(){
 
     }
+
     @Override
     public void stopWork(){
 
